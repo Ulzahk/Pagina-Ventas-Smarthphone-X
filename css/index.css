@@ -1,0 +1,169 @@
+.blac{
+  font-size: 50px;
+}
+
+.font–title{
+  text-align: center;
+}
+
+.pictures–adjust{
+  height: 400px;
+  width: 400px;
+}
+
+.text–product{
+  display: block
+}
+.img-margin{
+  margin-top: 300px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 300px;
+}
+
+.body2{
+background: linear-gradient(#049FBE, #00449F);
+}
+
+.body3{
+background: linear-gradient(#70CA29, #8329CA );
+}
+
+.busqueda1{
+padding: 0px 0px 0px 30px
+}
+  
+.margentext{
+  margin: 0px 5px 0px 5px
+ }
+ 
+ .margentext2{
+   margin: 0px 15px 0px 15px
+ }
+ 
+ .margenimg{
+   margin: 15px 0px 0px 0px
+ }
+
+
+ .tipoLetra{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.fondoIntro{
+  background-color: #f4511e;
+  font-style: normal;
+  color: white;
+}
+.parrafosIntro{
+  font-size: 20px;
+}
+
+
+/* Testimonios e Historias */
+
+.carousel-control.right, .carousel-control.left {
+  background-image: none;
+  color: #f4511e;
+  background-color: white;
+}
+
+.carousel-indicators li {
+  border-color: #f4511e;
+}
+
+.carousel-indicators li.active {
+  background-color: #f4511e;
+}
+
+.item h4 {
+  font-size: 19px;
+  line-height: 1.375em;
+  font-weight: 400;
+  font-style: italic;
+  margin: 70px 0;
+}
+
+.item span {
+  font-style: normal;
+}
+
+/* Venta del Producto */
+.panel {
+  border: 1px solid #f4511e; 
+  border-radius:0;
+  transition: box-shadow 0.5s;
+}
+
+.panel:hover {
+  box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.panel-footer .btn:hover {
+  border: 1px solid #f4511e;
+  background-color: #fff !important;
+  color: #f4511e;
+}
+
+.panel-heading {
+  color: black !important;
+  background-color:white !important;
+  padding: 25px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.panel-body{
+    color:white !important;
+    background-color: #f4511e;
+}
+
+.panel-footer {
+  background-color: #fff !important;
+}
+
+.panel-footer h3 {
+  font-size: 32px;
+}
+
+.panel-footer h4 {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.panel-footer .btn {
+  margin: 15px 0;
+  background-color: #f4511e;
+  color: #fff;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.overflow-visible {
+  white-space: initial;
+}
+
+.fondoIntro2{
+  color: floralwhite!important;
+  background-color: #f4511e;
+}
+
+.style-modal{
+  white-space: pre-line;
+  overflow-wrap: break-word;
+}
+.pepemision{
+  display: flex;
+  align-items: center;
+}
+
+.alineadoVertical{
+  margin-top: 100px;
+}
